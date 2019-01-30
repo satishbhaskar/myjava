@@ -1,2 +1,2 @@
-FROM httpd
-ADD ./devops /usr/local/apache2/htdocs/devops
+FROM jboss/wildfly
+ADD ./*.war /opt/jboss/wildfly/standalone/deployments/
