@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World!  Runnnig 2</h1>
+	<h1>Hello World!  Runnnig 2 removed sample jar</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
