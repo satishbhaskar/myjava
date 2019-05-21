@@ -1,2 +1,2 @@
 FROM jboss/wildfly
-ADD ./target/*.war /opt/jboss/wildfly/standalone/deployments/
+ADD ./job1/target/*.war /opt/jboss/wildfly/standalone/deployments/
